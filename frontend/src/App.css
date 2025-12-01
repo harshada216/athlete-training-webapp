@@ -1,0 +1,22 @@
+.App {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.card {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  margin-bottom: 1.5rem;
+}
+
+.table {
+  background-color: white;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.badge {
+  font-size: 0.9rem;
+}
